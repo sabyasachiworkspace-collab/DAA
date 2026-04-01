@@ -9,3 +9,6 @@ Clg Lab Works
 2.  Maximum Network Flow (mnf.c)
 3.  knapsackGreedyMethod.c
 4.  knapsackDynamicProgramming.c
+# PROGRAM ON (26/03/26)
+1.  hauffmancoding.c
+2.  shortestPath.c
