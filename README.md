@@ -12,3 +12,9 @@ Clg Lab Works
 # PROGRAM ON (26/03/26)
 1.  hauffmancoding.c
 2.  shortestPath.c
+# PROGRAM ON (02/04/26)
+1.  TravellingSalesPerson.c
+2.  krushkalgorithm.c
+3.  Primsalgorithm.c
+4.  FloydsAlgoritm.c
+
