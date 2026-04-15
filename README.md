@@ -17,4 +17,7 @@ Clg Lab Works
 2.  krushkalgorithm.c
 3.  Primsalgorithm.c
 4.  FloydsAlgoritm.c
+# PROGRAM ON (09/04/26)
+1.  set.c
+2.  hamiltonian.c
 
